@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+
+    padding: 0;
+    box-sizing: border-box;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(./backgroundimage.jpg);
+    background-size: cover;
+}
+form{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+#job1{
+    font-family:'Quantico', sans-serif;
+    text-align: center;
+}
+
+input{
+    background-color:;
+  }
+  div
+{
+      margin-top: 20px;
+      margin-bottom: 30px;
+      margin-left: 20px;
+  }
+h3,h4{
+    margin-bottom: 10px;
+}
+.form-submit{
+    text-align: center;
+    color: brown;
+    font-size: large;
+}
+button{
+    font-size: large;
+    background-color: white;
+}
+button:hover{
+    background-color: blue;
+    font-size: 2rem;
+}
